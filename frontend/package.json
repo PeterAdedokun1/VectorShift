@@ -10,8 +10,8 @@
     "zustand": "^5.0.3"
   },
   "scripts": {
-    "start": "node init && react-scripts start",
-    "build": "node init && react-scripts build"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
